@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-16 06:20:31,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+2025-09-16 18:24:28,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-2,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
@@ -21,21 +23,37 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 📡卫视频道,#genre#
+湖南卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=32
+湖南卫视,http://iptv.zkbhj.com/tv/url/go?id=67dd4562b4ce4edb1bc5eee87631bd5914bf8f16591693233093c5c91974172cc82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-甘肃卫视,http://120.40.60.223:1000/rtp/239.61.2.225:9338
+北京卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=36
+北京卫视,http://iptv.zkbhj.com/tv/url/go?id=150a1f3a8de1cfb773e2ccbaa23d2916f2325e82e1723382000c25c9009b1449c82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
+黑龙江卫视,http://iptv.zkbhj.com/tv/url/go?id=e6fa911b199dc9d2d6418f6b1508847614bf8f16591693233093c5c91974172cc82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
+安徽卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=37
+重庆卫视,http://iptv.zkbhj.com/tv/url/go?id=d6e23dbdf0d35a4936a2d6615c1a3c2b14bf8f16591693233093c5c91974172cc82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
+东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afcf2325e82e1723382000c25c9009b1449c82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
+东南卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=41
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://116.234.77.27:4022/rtp/239.45.0.3:5140
-河南卫视,http://223.167.230.154:4022/rtp/239.45.0.3:5140
 河南卫视,http://180.154.61.39:4022/rtp/239.45.0.3:5140
+河南卫视,http://116.234.77.27:4022/rtp/239.45.0.3:5140
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
+河南卫视,http://180.165.12.90:4022/rtp/239.45.0.3:5140
 河南卫视,http://180.165.6.184:4022/rtp/239.45.0.3:5140
-吉林卫视,http://120.40.60.223:1000/rtp/239.61.2.223:9326
-云南卫视,http://223.167.230.154:4022/rtp/239.45.0.4:5140
-云南卫视,http://116.234.77.27:4022/rtp/239.45.0.4:5140
+江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv
+辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8?key=txiptv
+宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv
+深圳卫视,http://iptv.zkbhj.com/tv/url/go?id=9bfe9fa37a4156dd532726199fbaaf4ff2325e82e1723382000c25c9009b1449c82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws&u8??key=txiptv
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv
+西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
+新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv
 云南卫视,http://180.154.61.39:4022/rtp/239.45.0.4:5140
-云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
+云南卫视,http://116.234.77.27:4022/rtp/239.45.0.4:5140
 云南卫视,http://180.165.12.90:4022/rtp/239.45.0.4:5140
 云南卫视,http://180.165.6.184:4022/rtp/239.45.0.4:5140
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv
+云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
 
 ☘️河北频道,#genre#
 河北经济生活,http://tv.tziqi.xin/hebei.php?id=2
@@ -58,23 +76,24 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://iptv.4666888.xyz/iptv.php?id=20083
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://iptv.4666888.xyz/iptv.php?id=20208
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
@@ -90,6 +109,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+菏泽三套影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 西部电影,http://112.46.105.20:8009/hls/62/index.m3u8
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 鹿鼎记,http://43.138.0.72:35455/yy/1382736920
