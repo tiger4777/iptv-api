@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2025-09-17 18:25:47,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+2025-09-18 06:21:11,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
 CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2
@@ -23,9 +23,9 @@ CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
-CCTV-7,http://111.227.196.164:9901/tsfile/live/faacts/0007_1.m3u8
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7
+CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-8,http://goo.bkpcp.top/mg/cctv8
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
@@ -33,6 +33,7 @@ CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-10,http://goo.bkpcp.top/mg/cctv10
+CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
@@ -71,25 +72,20 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 📡卫视频道,#genre#
-广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-浙江卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=33
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
-湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=36
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
 湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
-湖北卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=42
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056
@@ -101,16 +97,14 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
-东方卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=34
-东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afc39c6d75a20f6a08cff4747da97ede008d943122389bb700795c25be7c9ca897cb45f3654cdddb6eafd540446f22c4cc9
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws#rtsp://115.85.232.19/PLTV/88888910/224/3221225531/10000100000000060000000000107311_0.smil
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
-东南卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=41
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
 广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
@@ -120,25 +114,22 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
-河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
-河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 河南卫视,http://iptv.zkbhj.com/tv/url/go?id=540be5a7f351d5b11ba13983cdad8be5cc0f8547e764183236422572d6c3f85fc82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
-河南卫视,http://180.154.61.39:4022/rtp/239.45.0.3:5140
 河南卫视,http://116.234.77.27:4022/rtp/239.45.0.3:5140
-河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
+河南卫视,http://180.154.61.39:4022/rtp/239.45.0.3:5140
+河南卫视,http://180.165.12.90:4022/rtp/239.45.0.3:5140
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
-江苏卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=35
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
 江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
@@ -153,16 +144,12 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
 山东卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=2
 山东卫视,http://iptv.zkbhj.com/tv/url/go?id=9a4460d97e191f9c6d31e3c551265bfe8f85b3d79758a19b712019b6d80de09ec82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
-山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv
 山东卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010066
 山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
-山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
-山西卫视,http://111.43.126.240:9003/hls/61/index.m3u8
 山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
-四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
@@ -174,15 +161,14 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 云南卫视,http://180.154.61.39:4022/rtp/239.45.0.4:5140
 云南卫视,http://116.234.77.27:4022/rtp/239.45.0.4:5140
-云南卫视,http://180.165.12.90:4022/rtp/239.45.0.4:5140
+云南卫视,http://180.165.6.184:4022/rtp/239.45.0.4:5140
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
 云南卫视,http://180.165.1.43:9898/rtp/239.45.0.4:5140
-云南卫视,http://180.165.6.184:4022/rtp/239.45.0.4:5140
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
 
@@ -215,12 +201,12 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 🎬电影频道,#genre#
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
-CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
@@ -248,11 +234,10 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+无线星河,http://tl.061833.xyz/tl/null-7
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://iptv.4666888.xyz/iptv.php?id=20083
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
@@ -263,7 +248,7 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://iptv.4666888.xyz/iptv.php?id=20208
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
 东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
@@ -284,10 +269,10 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 南宁影视娱乐,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5
 南宁影视娱乐,https://stream1.freetv.fun/nan-zhu-ying-shi-yu-le-1.m3u8
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
-四川影视文艺,http://221.10.226.195:5000/rtp/239.0.0.5:5140
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 四川影视文艺,http://117.174.25.254:8188/rtp/239.0.0.5:5140
+四川影视文艺,http://221.10.226.195:5000/rtp/239.0.0.5:5140
 四川影视文艺,http://wouu.net:9977/udp/239.93.0.166:5140
 安徽影视,http://114.107.46.94:8188/rtp/238.1.79.42:4448
 安徽影视,https://stream1.freetv.fun/an-hui-ying-shi-14.m3u8
@@ -305,13 +290,11 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
-湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-14.m3u8
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-2.ctv
 甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 绍兴文化影视,https://stream1.freetv.fun/shao-xing-wen-hua-ying-shi-1.m3u8
 绍兴文化影院,https://stream1.freetv.fun/shao-xing-wen-hua-ying-yuan-4.m3u8
-菏泽三套影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 西部电影,http://112.46.105.20:8009/hls/62/index.m3u8
 贝爷求生影视2,https://www.goodiptv.club/douyu/9661369
 超级电影,https://fenghuang.tv12.xyz/21.m3u8
