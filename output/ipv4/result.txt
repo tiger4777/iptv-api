@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-21 18:21:57,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
+2025-09-22 06:21:36,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 
 📺央视频道,#genre#
-CCTV-8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
@@ -25,10 +24,8 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://180.154.61.39:4022/rtp/239.45.0.3:5140
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
@@ -48,9 +45,9 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
@@ -76,7 +73,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
-菏泽三套影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 西部电影,http://112.46.105.20:8009/hls/62/index.m3u8
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 鹿鼎记,http://43.138.0.72:35455/yy/1382736920
