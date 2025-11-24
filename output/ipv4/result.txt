@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-24 18:26:48,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+2025-11-25 06:21:48,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 
 📺央视频道,#genre#
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
@@ -62,7 +62,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
 西部电影,http://112.46.105.20:8009/hls/62/index.m3u8
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
-鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
 鹿鼎记,http://43.138.0.72:35455/yy/1382736920
+鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
 
 🎥咪咕直播,#genre#
