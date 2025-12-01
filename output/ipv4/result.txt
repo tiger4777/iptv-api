@@ -1,13 +1,12 @@
 🕘️更新时间,#genre#
-2025-12-01 18:28:44,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
+2025-12-02 06:21:53,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
 
 📺央视频道,#genre#
 CCTV-1,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
 CCTV-2,http://pull-skycorp.speedws.com/live/wsDPybYgMuqWqM6kVbNDXxU1hNsNRHYvGhZHFxhSHx8cqakkdgd999.flv
 CCTV-3,http://pull-skycorp.speedws.com/live/hbhyTVJFSgCenD0L9fpHmPCFf9duofVKizVpNsNRHY3evb3dZyF.flv
-CCTV-4,http://pull-skycorp.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNsNRHYAG166MYUo9TSyI9UUqn.flv
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-5,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
+CCTV-4,http://pull-skycorp.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNsNRHYAG166MYUo9TSyI9UUqn.flv
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
@@ -33,20 +32,10 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 
 📡卫视频道,#genre#
 广东卫视,http://pull-skycorp.speedws.com/live/1V56OQc2BnpdihCiNtNsNRHYMjyrh2lzJlM47qBfuLGqM2qKrbC.flv
-广东卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8
 浙江卫视,http://pull-skycorp.speedws.com/live/gbH4PLQ3sx9tsENsNRHYN0fXCkRq5E1sVCiXPZPoRHSwF6qIbcq.flv
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://pull-skycorp.speedws.com/live/rshHW4V9A5aGocS0bN5foBUP5w0MZNsNRHYVtVE100iJPiMe7rq.flv
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
-湖北卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8
-安徽卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8
-甘肃卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8
-贵州卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
-河北卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8
-河南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/1.m3u8
-吉林卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226886/1.m3u8
-辽宁卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
 青海卫视,http://pull-skycorp.speedws.com/live/Vl8mV4zn76zS5PTDLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
 山西卫视,http://pull-skycorp.speedws.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2QUWosNRHYPOG.flv
 
@@ -68,8 +57,6 @@ CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-淘剧场,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/.m3u8
-淘娱乐,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/.m3u8
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
@@ -82,14 +69,15 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
+哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
 西部电影,http://112.46.105.20:8009/hls/62/index.m3u8
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
-鹿鼎记,http://43.138.0.72:35455/yy/1382736920
 鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
+鹿鼎记,http://43.138.0.72:35455/yy/1382736920
 
 🎥咪咕直播,#genre#
