@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-19 06:22:58,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+2025-12-19 18:26:09,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
@@ -37,11 +37,10 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 河北农民,http://tv.tziqi.xin/hebei.php?id=3
 石家庄新闻综合,http://tv.tziqi.xin/sjz.php?id=xwzh
 石家庄娱乐,http://tv.tziqi.xin/sjz.php?id=whyl
-保定新闻综合,http://yp.qqqtv.top/1/api.php?id=%E4%BF%9D%E5%AE%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
 
 🎬电影频道,#genre#
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
@@ -66,6 +65,7 @@ CHC电影,http://112.254.55.106:22222/rtp/239.253.254.154:8000
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
 西部电影,http://112.46.105.20:8009/hls/62/index.m3u8
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
