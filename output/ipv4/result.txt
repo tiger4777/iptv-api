@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-21 18:22:58,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+2025-12-22 06:22:10,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
@@ -66,7 +66,6 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-CHC电影,http://112.254.55.106:22222/rtp/239.253.254.154:8000
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
 哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
@@ -74,11 +73,9 @@ CHC电影,http://112.254.55.106:22222/rtp/239.253.254.154:8000
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
 西部电影,http://112.46.105.20:8009/hls/62/index.m3u8
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
-鹿鼎记,https://lunbo.freetv.top/yy/1354658049
-鹿鼎记,http://43.138.0.72:35455/yy/1382736920
-鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
 
 🎥咪咕直播,#genre#
