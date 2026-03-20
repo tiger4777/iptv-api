@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-03-20 18:40:52,http://107.150.60.122/live/cctv3hd.m3u8
+2026-03-21 06:31:44,http://107.150.60.122/live/cctv3hd.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4%E6%AC%A7%E6%B4%B2&line=2
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
@@ -11,10 +10,10 @@ CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
-CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-CCTV-13,http://pull-hls-f1.douyincdn.com/media/stream-695440843385864876/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319180016A80564ED5545468EA742-GFdhqq&wsSecret=34a32822799c54e7dcdef972de5a9201&wsTime=69bbc931
+CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV-13,http://pull-hls-f1.douyincdn.com/media/stream-695440843385864876/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319180016A80564ED5545468EA742-GFdhqq&wsSecret=34a32822799c54e7dcdef972de5a9201&wsTime=69bbc931
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
@@ -38,11 +37,10 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 📡卫视频道,#genre#
-浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
@@ -63,8 +61,8 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 石家庄娱乐,http://tv.tziqi.xin/sjz.php?id=whyl
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
