@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260329103713 +0800">
+<tv date="20260329223414 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7092,166 +7092,322 @@
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>
 	</channel>
-	<programme channel="西藏卫视" start="20260329002500 +0800" stop="20260329011200 +0800">
-		<title lang="zh">无间(33)</title>
+	<programme channel="西藏卫视" start="20260330001800 +0800" stop="20260330010600 +0800">
+		<title lang="zh">无间(35)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329011200 +0800" stop="20260329012600 +0800">
-		<title lang="zh">在西藏</title>
+	<programme channel="西藏卫视" start="20260330010600 +0800" stop="20260330015300 +0800">
+		<title lang="zh">闯关东(26)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329012600 +0800" stop="20260329021300 +0800">
-		<title lang="zh">闯关东(24)</title>
+	<programme channel="西藏卫视" start="20260330015300 +0800" stop="20260330023900 +0800">
+		<title lang="zh">闯关东(27)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329021300 +0800" stop="20260329025900 +0800">
-		<title lang="zh">闯关东(25)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329025900 +0800" stop="20260329033600 +0800">
+	<programme channel="西藏卫视" start="20260330023900 +0800" stop="20260330031600 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329033600 +0800" stop="20260329042300 +0800">
-		<title lang="zh">归队(32)</title>
+	<programme channel="西藏卫视" start="20260330031600 +0800" stop="20260330033400 +0800">
+		<title lang="zh">在西藏</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329042300 +0800" stop="20260329051300 +0800">
-		<title lang="zh">归队(33)</title>
+	<programme channel="西藏卫视" start="20260330033400 +0800" stop="20260330042300 +0800">
+		<title lang="zh">归队(34)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329051300 +0800" stop="20260329054500 +0800">
-		<title lang="zh">美丽西藏</title>
+	<programme channel="西藏卫视" start="20260330042300 +0800" stop="20260330051100 +0800">
+		<title lang="zh">大决战(1)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329054500 +0800" stop="20260329055800 +0800">
+	<programme channel="西藏卫视" start="20260330051100 +0800" stop="20260330054500 +0800">
+		<title lang="zh">珠峰讲堂</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330054500 +0800" stop="20260330055800 +0800">
 		<title lang="zh">跟我学藏语</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329055800 +0800" stop="20260329064200 +0800">
-		<title lang="zh">神枪(6)</title>
+	<programme channel="西藏卫视" start="20260330055800 +0800" stop="20260330064200 +0800">
+		<title lang="zh">神枪(8)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329064200 +0800" stop="20260329070000 +0800">
+	<programme channel="西藏卫视" start="20260330064200 +0800" stop="20260330070000 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329070000 +0800" stop="20260329070400 +0800">
+	<programme channel="西藏卫视" start="20260330070000 +0800" stop="20260330070300 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329070400 +0800" stop="20260329074700 +0800">
-		<title lang="zh">神枪(7)</title>
+	<programme channel="西藏卫视" start="20260330070300 +0800" stop="20260330074500 +0800">
+		<title lang="zh">神枪(9)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329074700 +0800" stop="20260329081300 +0800">
+	<programme channel="西藏卫视" start="20260330074500 +0800" stop="20260330081700 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329081300 +0800" stop="20260329083000 +0800">
+	<programme channel="西藏卫视" start="20260330081700 +0800" stop="20260330083000 +0800">
 		<title lang="zh">跟我学藏语</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329083000 +0800" stop="20260329090100 +0800">
+	<programme channel="西藏卫视" start="20260330083000 +0800" stop="20260330090400 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329090100 +0800" stop="20260329094500 +0800">
-		<title lang="zh">西游记(9)</title>
+	<programme channel="西藏卫视" start="20260330090400 +0800" stop="20260330094600 +0800">
+		<title lang="zh">西游记(13)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329094500 +0800" stop="20260329100000 +0800">
+	<programme channel="西藏卫视" start="20260330094600 +0800" stop="20260330100300 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329100000 +0800" stop="20260329104400 +0800">
-		<title lang="zh">西游记(10)</title>
+	<programme channel="西藏卫视" start="20260330100300 +0800" stop="20260330104500 +0800">
+		<title lang="zh">西游记(14)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329104400 +0800" stop="20260329105900 +0800">
+	<programme channel="西藏卫视" start="20260330104500 +0800" stop="20260330110100 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329105900 +0800" stop="20260329114300 +0800">
-		<title lang="zh">西游记(11)</title>
+	<programme channel="西藏卫视" start="20260330110100 +0800" stop="20260330114400 +0800">
+		<title lang="zh">西游记(15)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329114300 +0800" stop="20260329115900 +0800">
+	<programme channel="西藏卫视" start="20260330114400 +0800" stop="20260330120100 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329115900 +0800" stop="20260329124300 +0800">
-		<title lang="zh">西游记(12)</title>
+	<programme channel="西藏卫视" start="20260330120100 +0800" stop="20260330124300 +0800">
+		<title lang="zh">西游记(16)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329124300 +0800" stop="20260329130000 +0800">
+	<programme channel="西藏卫视" start="20260330124300 +0800" stop="20260330130000 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329130000 +0800" stop="20260329131700 +0800">
+	<programme channel="西藏卫视" start="20260330130000 +0800" stop="20260330132100 +0800">
 		<title lang="zh">午间新闻</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329131700 +0800" stop="20260329134500 +0800">
-		<title lang="zh">洪湖赤卫队</title>
+	<programme channel="西藏卫视" start="20260330132100 +0800" stop="20260330134900 +0800">
+		<title lang="zh">南征北战</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329134500 +0800" stop="20260329135800 +0800">
+	<programme channel="西藏卫视" start="20260330134900 +0800" stop="20260330140200 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329135800 +0800" stop="20260329142600 +0800">
-		<title lang="zh">洪湖赤卫队</title>
+	<programme channel="西藏卫视" start="20260330140200 +0800" stop="20260330143000 +0800">
+		<title lang="zh">南征北战</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329142600 +0800" stop="20260329143900 +0800">
+	<programme channel="西藏卫视" start="20260330143000 +0800" stop="20260330144300 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329143900 +0800" stop="20260329150700 +0800">
-		<title lang="zh">洪湖赤卫队</title>
+	<programme channel="西藏卫视" start="20260330144300 +0800" stop="20260330151100 +0800">
+		<title lang="zh">南征北战</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329150700 +0800" stop="20260329152000 +0800">
+	<programme channel="西藏卫视" start="20260330151100 +0800" stop="20260330152400 +0800">
 		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329152000 +0800" stop="20260329152500 +0800">
-		<title lang="zh">洪湖赤卫队</title>
+	<programme channel="西藏卫视" start="20260330152400 +0800" stop="20260330152900 +0800">
+		<title lang="zh">南征北战</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329152500 +0800" stop="20260329154100 +0800">
+	<programme channel="西藏卫视" start="20260330152900 +0800" stop="20260330154500 +0800">
 		<title lang="zh">午间新闻</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329154100 +0800" stop="20260329161200 +0800">
-		<title lang="zh">珠峰讲堂</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329161200 +0800" stop="20260329164000 +0800">
-		<title lang="zh">五朵金花</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329164000 +0800" stop="20260329165300 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329165300 +0800" stop="20260329172100 +0800">
-		<title lang="zh">五朵金花</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329172100 +0800" stop="20260329173400 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329173400 +0800" stop="20260329180200 +0800">
-		<title lang="zh">五朵金花</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329180200 +0800" stop="20260329181500 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329181500 +0800" stop="20260329182200 +0800">
-		<title lang="zh">五朵金花</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329182200 +0800" stop="20260329190000 +0800">
-		<title lang="zh">邦锦梅朵</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329190000 +0800" stop="20260329193000 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329193000 +0800" stop="20260329200500 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329200500 +0800" stop="20260329200800 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329200800 +0800" stop="20260329204700 +0800">
-		<title lang="zh">珠峰讲堂</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260329204700 +0800" stop="20260329211800 +0800">
+	<programme channel="西藏卫视" start="20260330154500 +0800" stop="20260330161600 +0800">
 		<title lang="zh">美丽西藏</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329211800 +0800" stop="20260329220200 +0800">
-		<title lang="zh">小巷人家(32)</title>
+	<programme channel="西藏卫视" start="20260330161600 +0800" stop="20260330164400 +0800">
+		<title lang="zh">三进山城</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329220200 +0800" stop="20260329221300 +0800">
-		<title lang="zh">在西藏</title>
+	<programme channel="西藏卫视" start="20260330164400 +0800" stop="20260330165700 +0800">
+		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329221300 +0800" stop="20260329222500 +0800">
-		<title lang="zh">读·行·西藏</title>
+	<programme channel="西藏卫视" start="20260330165700 +0800" stop="20260330172500 +0800">
+		<title lang="zh">三进山城</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329222500 +0800" stop="20260329223000 +0800">
-		<title lang="zh">天气预报</title>
+	<programme channel="西藏卫视" start="20260330172500 +0800" stop="20260330173800 +0800">
+		<title lang="zh">创收栏目</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329223000 +0800" stop="20260329230000 +0800">
+	<programme channel="西藏卫视" start="20260330173800 +0800" stop="20260330180600 +0800">
+		<title lang="zh">三进山城</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330180600 +0800" stop="20260330181900 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330181900 +0800" stop="20260330182600 +0800">
+		<title lang="zh">三进山城</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330182600 +0800" stop="20260330190000 +0800">
+		<title lang="zh">邦锦梅朵:动画乐园</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330190000 +0800" stop="20260330193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330193000 +0800" stop="20260330200400 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329230000 +0800" stop="20260329233200 +0800">
-		<title lang="zh">珠峰讲堂</title>
+	<programme channel="西藏卫视" start="20260330200400 +0800" stop="20260330201200 +0800">
+		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260329233200 +0800" stop="20260330001800 +0800">
-		<title lang="zh">无间(34)</title>
+	<programme channel="西藏卫视" start="20260330201200 +0800" stop="20260330205900 +0800">
+		<title lang="zh">小巷人家(33)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330205900 +0800" stop="20260330214400 +0800">
+		<title lang="zh">小巷人家(34)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330214400 +0800" stop="20260330215500 +0800">
+		<title lang="zh">读·行·西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330215500 +0800" stop="20260330222500 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330222500 +0800" stop="20260330223000 +0800">
+		<title lang="zh">晚间气象</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330223000 +0800" stop="20260330230000 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330230000 +0800" stop="20260330231800 +0800">
+		<title lang="zh">跟我学藏语</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260330231800 +0800" stop="20260331000000 +0800">
+		<title lang="zh">无间(36)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331000000 +0800" stop="20260331005300 +0800">
+		<title lang="zh">无间(37)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331005300 +0800" stop="20260331010500 +0800">
+		<title lang="zh">读·行·西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331010500 +0800" stop="20260331013600 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331013600 +0800" stop="20260331022200 +0800">
+		<title lang="zh">闯关东(28)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331022200 +0800" stop="20260331030800 +0800">
+		<title lang="zh">闯关东(29)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331030800 +0800" stop="20260331033900 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331033900 +0800" stop="20260331042600 +0800">
+		<title lang="zh">大决战(2)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331042600 +0800" stop="20260331051700 +0800">
+		<title lang="zh">大决战(3)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331051700 +0800" stop="20260331052900 +0800">
+		<title lang="zh">跟我学藏语</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331052900 +0800" stop="20260331060300 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331060300 +0800" stop="20260331064600 +0800">
+		<title lang="zh">神枪(10)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331064600 +0800" stop="20260331070000 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331070000 +0800" stop="20260331070200 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331070200 +0800" stop="20260331074400 +0800">
+		<title lang="zh">神枪(11)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331074400 +0800" stop="20260331081500 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331081500 +0800" stop="20260331083000 +0800">
+		<title lang="zh">跟我学藏语</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331083000 +0800" stop="20260331090300 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331090300 +0800" stop="20260331094700 +0800">
+		<title lang="zh">西游记(17)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331094700 +0800" stop="20260331100300 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331100300 +0800" stop="20260331104700 +0800">
+		<title lang="zh">西游记(18)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331104700 +0800" stop="20260331110100 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331110100 +0800" stop="20260331114500 +0800">
+		<title lang="zh">西游记(19)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331114500 +0800" stop="20260331115900 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331115900 +0800" stop="20260331124300 +0800">
+		<title lang="zh">西游记(20)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331124300 +0800" stop="20260331130000 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331130000 +0800" stop="20260331132100 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331132100 +0800" stop="20260331134900 +0800">
+		<title lang="zh">红日</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331134900 +0800" stop="20260331140200 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331140200 +0800" stop="20260331143000 +0800">
+		<title lang="zh">红日</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331143000 +0800" stop="20260331144300 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331144300 +0800" stop="20260331151100 +0800">
+		<title lang="zh">红日</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331151100 +0800" stop="20260331152400 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331152400 +0800" stop="20260331152900 +0800">
+		<title lang="zh">红日</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331152900 +0800" stop="20260331154500 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331154500 +0800" stop="20260331161600 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331161600 +0800" stop="20260331164400 +0800">
+		<title lang="zh">平原游击队</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331164400 +0800" stop="20260331165700 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331165700 +0800" stop="20260331172500 +0800">
+		<title lang="zh">平原游击队</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331172500 +0800" stop="20260331173800 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331173800 +0800" stop="20260331180600 +0800">
+		<title lang="zh">平原游击队</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331180600 +0800" stop="20260331181900 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331181900 +0800" stop="20260331182600 +0800">
+		<title lang="zh">平原游击队</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331182600 +0800" stop="20260331190000 +0800">
+		<title lang="zh">邦锦梅朵:动画乐园</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331190000 +0800" stop="20260331193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331193000 +0800" stop="20260331200500 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331200500 +0800" stop="20260331201400 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331201400 +0800" stop="20260331210400 +0800">
+		<title lang="zh">小巷人家(35)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331210400 +0800" stop="20260331215100 +0800">
+		<title lang="zh">小巷人家(36)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331215100 +0800" stop="20260331222500 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331222500 +0800" stop="20260331223000 +0800">
+		<title lang="zh">晚间气象</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331223000 +0800" stop="20260331230100 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331230100 +0800" stop="20260331233300 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260331233300 +0800" stop="20260401001800 +0800">
+		<title lang="zh">无间(38)</title>
 	</programme>
 </tv>
