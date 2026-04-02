@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-02 06:40:30,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-04-03 06:34:44,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -21,6 +21,7 @@ CCTV-8,http://111.56.90.5/000000000000/1000000001000003736/1.m3u8
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
 CCTV-9,http://111.56.90.5/000000000000/1000000005000265009/1.m3u8
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b11df655ff6c7c25478c21cfc9e946c2
 CCTV-10,http://111.56.90.5/000000000000/1000000005000265010/1.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://111.56.90.5/000000000000/1000000005000265011/1.m3u8
@@ -31,15 +32,15 @@ CCTV-13,http://111.56.90.5/000000000000/1000000002000021303/1.m3u8
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-14,http://111.56.90.5/000000000000/1000000005000265013/1.m3u8
 CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-15,http://111.56.90.5/000000000000/1000000005000265014/1.m3u8
+CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-16,http://111.56.90.5/000000000000/1000000006000233002/1.m3u8
 CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV-17,http://111.56.90.5/000000000000/1000000005000056836/1.m3u8
-CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
@@ -62,11 +63,10 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 广东卫视,http://111.56.90.5/000000000000/1000000005000265034/1.m3u8
 浙江卫视,http://111.56.90.5/000000000000/1000000001000014260/1.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://111.56.90.5/000000000000/1000000005000265024/1.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://111.56.90.5/000000000000/6000000001000020451/1.m3u8
 湖北卫视,http://111.56.90.5/000000000000/1000000001000024621/1.m3u8
@@ -87,6 +87,7 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 江西卫视,http://111.56.90.5/000000000000/1000000005000265032/1.m3u8
 辽宁卫视,http://111.56.90.5/000000000000/1000000005000265022/1.m3u8
 内蒙古卫视,http://111.56.90.5/000000000000/5559214655508729688/1.m3u8
+内蒙古卫视,http://43.156.8.127:5050/ysp?id=2025561203&pid=600190401&q=fhd
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://111.56.90.5/000000000000/1000000002000013359/1.m3u8
 山东卫视,http://111.56.90.5/000000000000/1000000005000265019/1.m3u8
@@ -94,7 +95,7 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 四川卫视,http://111.56.90.5/000000000000/1000000002000016825/1.m3u8
 深圳卫视,http://111.56.90.5/000000000000/6000000001000002116/1.m3u8
 三沙卫视,http://111.56.90.5/000000000000/5000000011000288016/1.m3u8
-天津卫视,http://111.56.90.5/000000000000/1000000005000265026/1.m3u8
+天津卫视,http://111.56.90.5/000000000000/6000000001000009186/1.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 新疆卫视,http://111.56.90.5/000000000000/1000000002000029441/1.m3u8
 云南卫视,http://111.56.90.5/000000000000/5000000006000040019/1.m3u8
@@ -112,8 +113,8 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 保定新闻综合,http://121.29.141.59:4022/rtp/239.253.93.2:6153
 
 🎬电影频道,#genre#
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
