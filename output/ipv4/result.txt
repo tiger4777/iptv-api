@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-20 20:00:34,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-21 07:11:04,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -27,7 +27,6 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 📡卫视频道,#genre#
 广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-浙江卫视,http://173.208.212.130:8181/1080p/zjws.m3u8
 湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -38,9 +37,7 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
-四川卫视,http://223.75.149.129:9906/tsfile/live/0123_1.m3u8?key=txiptv
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
-深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 
 ☘️河北频道,#genre#
