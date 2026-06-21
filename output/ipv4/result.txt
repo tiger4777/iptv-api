@@ -1,17 +1,22 @@
 🕘️更新时间,#genre#
-2026-06-21 07:11:04,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-21 20:13:51,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
+CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
+CCTV-5,http://121.57.88.206:898/hls/5/index.m3u8
+CCTV-6,http://121.57.88.206:898/hls/6/index.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-7,http://173.208.212.130:8181/720p/cctv7.m3u8
+CCTV-7,http://121.57.88.206:898/hls/7/index.m3u8
+CCTV-8,http://121.57.88.206:898/hls/8/index.m3u8
+CCTV-9,http://173.208.212.130:8181/720p/cctv9.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-11,http://121.57.88.206:898/hls/11/index.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/playlist.m3u8?keeptime=00093a80&wsSecret=1bebd13d7482ab1a6f4971ff549fa2e0&wsTime=6a349a1b&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260619092339689A6E65E32436425877-oeHxgW
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+CCTV-15,http://61.145.242.11:9088/hls/15/index.m3u8
+CCTV-16,http://121.57.88.206:898/hls/16/index.m3u8
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
-CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
-CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
-CETV1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
-CETV1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
@@ -26,19 +31,44 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 
 📡卫视频道,#genre#
 广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
+广东卫视,http://221.226.51.220:50081/newlive/live/hls/30/live.m3u8
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
+浙江卫视,http://222.90.21.30:9901/hls/21/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://222.90.21.30:9901/hls/23/index.m3u8
+湖北卫视,http://222.90.21.30:9901/hls/19/index.m3u8
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=43810153d9094bbea29e4ee654e3b919&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
-安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
+黑龙江卫视,http://222.90.21.30:9901/hls/28/index.m3u8
 安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
+安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
+重庆卫视,http://222.90.21.30:9901/hls/69/index.m3u8
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东南卫视,http://222.90.21.30:9901/hls/30/index.m3u8
+东南卫视,http://125.42.151.149:9901/tsfile/live/0126_1.m3u8
+甘肃卫视,http://222.90.21.30:9901/hls/36/index.m3u8
+广西卫视,http://221.226.51.220:50081/newlive/live/hls/25/live.m3u8
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
+贵州卫视,http://222.90.21.30:9901/hls/34/index.m3u8
+海南卫视,http://222.90.21.30:9901/hls/37/index.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
+河北卫视,http://222.90.21.30:9901/hls/44/index.m3u8
+河南卫视,http://222.90.21.30:9901/hls/31/index.m3u8
+吉林卫视,http://222.90.21.30:9901/hls/35/index.m3u8
+内蒙古卫视,http://222.90.21.30:9901/hls/40/index.m3u8
+青海卫视,http://222.90.21.30:9901/hls/42/index.m3u8
+山西卫视,http://222.90.21.30:9901/hls/32/index.m3u8
+陕西卫视,http://222.90.21.30:9901/hls/46/index.m3u8
+四川卫视,http://222.90.21.30:9901/hls/45/index.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
+天津卫视,http://221.226.51.220:50081/newlive/live/hls/26/live.m3u8
+天津卫视,http://222.90.21.30:9901/hls/43/index.m3u8
+天津卫视,http://125.42.151.149:9901/tsfile/live/0130_1.m3u8
+西藏卫视,http://222.90.21.30:9901/hls/90/index.m3u8
 
 ☘️河北频道,#genre#
 河北经济生活,http://tv.tziqi.xin/hebei.php?id=2
