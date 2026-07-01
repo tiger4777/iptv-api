@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-01 07:15:15,http://198.204.240.250:82/live/cctv1.m3u8
+2026-07-01 20:35:32,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -25,15 +25,18 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+黑龙江卫视,http://101.66.194.49:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
+广西卫视,http://101.66.194.49:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 
@@ -54,8 +57,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
