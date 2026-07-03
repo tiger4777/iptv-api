@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-03 20:11:09,http://198.204.240.250:82/live/cctv1.m3u8
+2026-07-04 07:06:14,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -26,17 +26,14 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://204.12.221.218:8181/3m1080p/bjws.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://223.75.149.129:9906/tsfile/live/0131_1.m3u8?key=txiptv
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 
