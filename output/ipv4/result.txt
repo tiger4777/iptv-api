@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-12 19:12:12,http://198.204.228.26/live/cctv10hd.m3u8
+2026-07-13 06:52:40,http://198.204.228.26/live/cctv10hd.m3u8
 
 📺央视频道,#genre#
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
@@ -26,15 +26,11 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=ea89500213860e097dbc0aee4897a35e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-河北卫视,http://101.66.194.63:9901/tsfile/live/0117_1.m3u8
-河南卫视,http://101.66.194.63:9901/tsfile/live/0139_1.m3u8
-河南卫视,http://101.66.194.82:9901/tsfile/live/0139_1.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
