@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-25 07:04:56,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+2026-07-25 19:12:00,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
@@ -59,8 +59,8 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 石家庄娱乐,http://tv.tziqi.xin/sjz.php?id=whyl
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
