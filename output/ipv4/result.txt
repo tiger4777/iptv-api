@@ -1,9 +1,16 @@
 🕘️更新时间,#genre#
-2026-08-24 06:22:44,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-08-24 18:41:19,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-6,http://101.66.198.179:9901/tsfile/live/0006_1.m3u8
+CCTV-6,http://101.66.198.245:9901/tsfile/live/0006_1.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-13,http://101.66.198.179:9901/tsfile/live/0013_1.m3u8
+CCTV-13,http://101.66.198.55:9901/tsfile/live/0013_1.m3u8
+CCTV-13,http://101.66.198.245:9901/tsfile/live/0013_1.m3u8
+CCTV-14,http://101.66.198.179:9901/tsfile/live/0014_1.m3u8
+CCTV-14,http://101.66.198.55:9901/tsfile/live/0014_1.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
@@ -27,19 +34,43 @@ CETV4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/1000010000000006000000000
 📡卫视频道,#genre#
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://101.66.198.179:9901/tsfile/live/0019_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://101.66.198.179:9901/tsfile/live/0016_1.m3u8
+北京卫视,http://101.66.198.245:9901/tsfile/live/0016_1.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+湖北卫视,http://101.66.198.179:9901/tsfile/live/0132_1.m3u8
+黑龙江卫视,http://101.66.198.55:9901/tsfile/live/0143_1.m3u8
+重庆卫视,http://101.66.198.179:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.198.245:9901/tsfile/live/0142_1.m3u8
+东方卫视,http://101.66.198.179:9901/tsfile/live/0018_1.m3u8
+东南卫视,http://101.66.198.245:9901/tsfile/live/0137_1.m3u8
+广西卫视,http://101.66.198.179:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.198.55:9901/tsfile/live/0113_1.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
+贵州卫视,http://101.66.198.179:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
+河北卫视,http://101.66.198.179:9901/tsfile/live/0117_1.m3u8
+河南卫视,http://101.66.198.55:9901/tsfile/live/0139_1.m3u8
+吉林卫视,http://101.66.198.245:9901/tsfile/live/0116_1.m3u8
+江苏卫视,http://101.66.198.55:9901/tsfile/live/0017_1.m3u8
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
+辽宁卫视,http://101.66.198.55:9901/tsfile/live/0121_1.m3u8
+辽宁卫视,http://101.66.198.245:9901/tsfile/live/0121_1.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
+山东卫视,http://101.66.198.245:9901/tsfile/live/0131_1.m3u8
+山东卫视,http://101.66.198.179:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.198.55:9901/tsfile/live/0131_1.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,http://101.66.198.55:9901/tsfile/live/0123_1.m3u8
+四川卫视,http://101.66.198.245:9901/tsfile/live/0123_1.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
+云南卫视,http://101.66.198.179:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.198.245:9901/tsfile/live/0119_1.m3u8
 
 ☘️河北频道,#genre#
 河北经济生活,http://tv.tziqi.xin/hebei.php?id=2
@@ -58,8 +89,9 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 东方影视,http://38.75.136.137:98/gslb/dsdqpub/shdsjhd.m3u8?auth=testpub
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
