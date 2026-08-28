@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-28 14:00:53,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-08-29 05:09:33,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
@@ -25,10 +25,12 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 CETV4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 📡卫视频道,#genre#
+浙江卫视,http://221.7.175.154:8445/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+湖北卫视,http://221.7.175.154:8445/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
@@ -37,7 +39,6 @@ CETV4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/1000010000000006000000000
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
@@ -54,13 +55,13 @@ CETV4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/1000010000000006000000000
 石家庄娱乐,http://tv.tziqi.xin/sjz.php?id=whyl
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+纬来电影,https://flv-play.clouda.com/live/Ry0MO81AVT7tMdC0mAXxDkKWXVDYmPZGFf2UEwdsUP2rz.flv
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
