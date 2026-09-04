@@ -1,17 +1,10 @@
 🕘️更新时间,#genre#
-2026-09-04 07:51:21,http://124.228.160.210:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-04 22:04:11,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
-CCTV-1,http://124.228.160.210:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://124.228.160.210:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
-CCTV-5+,http://124.228.160.210:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://124.228.160.210:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://124.228.160.210:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-12,http://124.228.160.210:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://124.228.160.210:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
@@ -43,9 +36,9 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
+云南卫视,http://101.66.195.43:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️河北频道,#genre#
 河北经济生活,http://tv.tziqi.xin/hebei.php?id=2
@@ -60,15 +53,15 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
-哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
