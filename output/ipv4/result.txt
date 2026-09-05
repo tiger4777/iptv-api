@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-05 21:20:01,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-09-06 07:37:05,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
@@ -36,6 +36,7 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -54,11 +55,7 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 CHC电影,http://219.139.124.61:8089/hls/28/index.m3u8
-CHC电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
-CHC电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
