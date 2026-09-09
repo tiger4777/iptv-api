@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-09 22:14:20,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-09-10 07:53:16,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
@@ -35,6 +35,7 @@ CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
