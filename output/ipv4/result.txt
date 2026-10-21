@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-10-21 08:25:27,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-10-21 22:56:10,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b06ebe8fff6cae6b138b2f6d679d7afd
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
@@ -25,17 +26,30 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 
 📡卫视频道,#genre#
+广东卫视,http://112.103.141.175:1234/608831231
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://112.103.141.175:1234/630287636
+湖北卫视,http://112.103.141.175:1234/947472496
+东方卫视,http://112.103.141.175:1234/651632648
+东南卫视,http://112.103.141.175:1234/849116810
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi
-河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
+海南卫视,http://112.103.141.175:1234/947472502
+河北卫视,http://112.103.141.175:1234/962042070
+河南卫视,http://112.103.141.175:1234/790187291
+吉林卫视,http://112.103.141.175:1234/947472500
+江苏卫视,http://112.103.141.175:1234/623899368
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
+江西卫视,http://112.103.141.175:1234/783847495
+辽宁卫视,http://112.103.141.175:1234/630291707
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
-内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
+宁夏卫视,http://112.103.141.175:1234/738910535
+青海卫视,http://112.103.141.175:1234/947472506
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+陕西卫视,http://112.103.141.175:1234/738910838
+三沙卫视,http://112.103.141.175:1234/961023778
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -59,7 +73,10 @@ CHC电影,http://219.139.124.61:8089/hls/28/index.m3u8
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
 哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
+广东影视,http://xhyx.gz.cn:1698/hls/65/index.m3u8
+广东影视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=53
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 
 🎥咪咕直播,#genre#
